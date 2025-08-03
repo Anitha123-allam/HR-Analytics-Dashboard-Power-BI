@@ -15,6 +15,10 @@ This project is an interactive HR Analytics Dashboard created using **Power BI**
 - Power BI Desktop
 - Sample HR dataset (anonymized)
 
+# HR Analytics Dashboard 📊
+  ![Uploading Screenshot 2025-08-03 075426.png…]()
+
+
 ## 📈 Key Insights
 The dashboard helps HR teams:
 - Track workforce size and attrition trends
@@ -34,7 +38,6 @@ The dashboard helps HR teams:
 3. Load your own dataset if needed.
 4. Explore and interact with the visuals!
 
-<img width="1319" height="734" alt="image" src="https://github.com/user-attachments/assets/47478db6-ded9-4e94-aa0f-a64415b642dc" />
 
 
 ## 📬 Feedback
