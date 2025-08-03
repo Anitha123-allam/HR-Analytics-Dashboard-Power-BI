@@ -16,7 +16,8 @@ This project is an interactive HR Analytics Dashboard created using **Power BI**
 - Sample HR dataset (anonymized)
 
 # HR Analytics Dashboard 📊
-  ![Uploading Screenshot 2025-08-03 075426.png…]()
+<img width="1319" height="734" alt="image" src="https://github.com/user-attachments/assets/1b60578f-fe02-46eb-80a4-efad84118ec5" />
+
 
 
 ## 📈 Key Insights
