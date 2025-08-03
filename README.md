@@ -34,6 +34,9 @@ The dashboard helps HR teams:
 3. Load your own dataset if needed.
 4. Explore and interact with the visuals!
 
+<img width="1319" height="734" alt="image" src="https://github.com/user-attachments/assets/47478db6-ded9-4e94-aa0f-a64415b642dc" />
+
+
 ## 📬 Feedback
 Feel free to fork this repo, suggest improvements, or reach out with ideas!
 
